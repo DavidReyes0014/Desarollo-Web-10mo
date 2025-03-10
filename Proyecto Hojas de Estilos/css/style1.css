@@ -23,3 +23,18 @@
 #bar{
     width: 20%;
 }
+
+.menuselecction{
+    color: white;
+    background-color: green;
+    width: 90%;
+    height: 30px;
+    padding: 5px;
+    margin: 5px;
+    border: 2px lightgray; 
+    border-radius: 5px;
+    align-items: center;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+}
