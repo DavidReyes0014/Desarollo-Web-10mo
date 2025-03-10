@@ -11,3 +11,15 @@
     width: 100%;
     display: flex;
 }
+
+#menu{
+    width: 20%;
+}
+
+#center{
+    width: 60%;
+}
+
+#bar{
+    width: 20%;
+}
