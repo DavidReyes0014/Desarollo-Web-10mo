@@ -1,0 +1,65 @@
+#header{
+    color: white;
+    background-color: darkblue;
+    border-radius: 15px;
+    padding: 7px;
+    width: 99%;
+    height: 100px;
+}
+
+#main{
+    width: 100%;
+    display: flex;
+}
+
+#menu{
+    width: 20%;
+}
+
+#center{
+    width: 60%;
+}
+
+#bar{
+    width: 20%;
+}
+
+.menuselecction{
+    color: white;
+    background-color: green;
+    width: 90%;
+    height: 30px;
+    padding: 5px;
+    margin: 5px;
+    border: 2px lightgray; 
+    border-radius: 5px;
+    align-items: center;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+}
+
+.menuoption{
+    color: black;
+    background-color: lightgrey;
+    width: 90%;
+    height: 30px;
+    padding: 5px;
+    margin: 5px;
+    border: 2px darkgrey;
+    border-radius: 5px;
+    align-items: center;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+}
+
+#bar{
+    color: white;
+    background-color: blue;
+    width: 20%;
+    height: 600px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
